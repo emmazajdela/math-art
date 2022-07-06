@@ -6,4 +6,5 @@ Feel free to use the code as you please. I would love to see what is done with i
 The first code uploaded on July 6, 2022 came from my initial attempt at creating a Sankey plot in Python, which failed but turned into a cool design! It reminds me of multiple rolls of camera film intertwined. I've titled it "Janky Sankey." 
 
 ![JankySankey_github](https://user-images.githubusercontent.com/57106544/177566739-67f6e067-3794-42c4-a601-932a2e263440.png)
+
 More math art code will be forthcoming. 
